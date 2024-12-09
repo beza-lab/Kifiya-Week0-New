@@ -19,4 +19,3 @@ Cleaning (1 or 0): Signifying whether cleaning (possibly of the modules or senso
 Precipitation (mm/min): Precipitation rate measured in millimeters per minute.
 TModA (°C): Temperature of Module A in degrees Celsius.
 TModB (°C): Temperature of Module B in degrees Celsius.
-Comments: This column is designed for any additional notes.
